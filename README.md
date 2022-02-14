@@ -1,2 +1,2 @@
 # javascript
-JavaScript applications
+Sample JavaScript applications at basic level.
