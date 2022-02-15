@@ -8,7 +8,7 @@ const equalsButton = document.querySelector('.equals');
 const clearsButton = document.querySelector('.clears');
 const calculatorHistory = document.querySelector('.history');
 
-const historyBtn = document.querySelector('.history btn');
+const historyBtn = document.querySelector('.history-btn');
 
 let result = '';
 
