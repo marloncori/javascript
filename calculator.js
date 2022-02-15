@@ -97,6 +97,12 @@ const usunLiczbe = () => {
     aktualneDzialanie = aktualneDzialanie.toString().slice(0, -1)  
 }
 
+const wyczyscWynik = () => {
+    aktualneDzialanie = ''
+    poprzednieDzialanie = ''
+    operacja = undefined
+}
+
 liczby.forEach((liczba) => {
     liczba.addEventListener('click', () => {
        dodajLiczbe(liczba.innerText)
@@ -119,4 +125,9 @@ operatory.forEach((operator) => {
 rownosc.addEventListener('click', () => {
      oblicz()
      zaktualizujWynik()
+})
+
+wyczysc.addEventListener('click', () => {
+    wyczyscWynik()
+    zaktualizujWynik()
 })
