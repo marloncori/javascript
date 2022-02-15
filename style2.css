@@ -65,14 +65,13 @@ body {
 
 .panel button {
     font-size: 25px;
-    background-color :rgba(0,0,0,0.466);
+    background-color: rgba(0,0,0,0.466);
     color: white;
     cursor: pointer;
     border: none;
     outline: none;
     transition: all .2s ease-in-out;
 }
-
 
 button:hover {
     background-color:rgba(0,0,0,0.546);
@@ -82,7 +81,6 @@ button:hover {
     grid-row: -1/-3;
     grid-column: -2/-1;
 }
-
 
 .calculator-history {
     height: 60vh;
@@ -117,6 +115,7 @@ button:hover {
     outline: none;
     margin: 5px auto;
 }
+
 .history-btn.active {
     display: block;
 }
@@ -126,6 +125,4 @@ button:hover {
     letter-spacing: 1px;
     border-bottom: 1px solid rgba(29,27,27, 0.233);
     padding-bottom: 5px;
-}
-
 }
