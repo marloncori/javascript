@@ -36,10 +36,14 @@ const oblicz = () => {
      case '-':
           dzialanie = poprzednie - aktualne
           break;
-     case '✘':
+     case '×':
           dzialanie = poprzednie * aktualne
           break;
-     case '/':
+     case '÷':
+         if(aktualneDzialanie === 0){
+            wyczyscWynik()
+            return
+         }
           dzialanie = poprzednie / aktualne
           break;
      case '√':
@@ -67,6 +71,11 @@ const wybierzOperacje = (operator) => {
        return
     }
     if(poprzednieDzialanie !== ''){
+      cosnt poprzednie = poprzednieDzialanie.innerText
+       if(aktualneDzialanie.toString() === '0' && poprzednie[poprzednie.length-1] === '÷'){
+         wyczyscWynik()
+         return
+       }
       oblicz()
     }
     operacja = operator
