@@ -13,8 +13,8 @@ const historyBtn = document.querySelector('.history-btn');
 let result = '';
 
 function displayNumbers () {
-  if(this.textContent === '.' && currentNumber.innerHTML.includes('.')) return;
-  if(this.textContent === '.' && currentNumber.innerHTML === '') return;
+  if(this.textContent === '•' && currentNumber.innerHTML.includes('.')) return;
+  if(this.textContent === '•' && currentNumber.innerHTML === '') return;
  currentNumber.innerHTML = '.0';
     currentNumber.innerHTML += this.textContent;
 }
@@ -89,7 +89,7 @@ function clearScreen () {
 
 function addToHisotry () {
    const newHistoryItem = document.createElement('li');
-   newHistoryItem.innerHTML = `${previousNumber.innerHTML} ${mathSign.interHTML} ${curretNumber.innerHTML} = ${result}`;
+   newHistoryItem.innerHTML = `${previousNumber.innerHTML} ${mathSign.innerHTML} ${curreNtNumber.innerHTML} = ${result}`;
    newHistoryItem.classList.add('history-item');
    calculatorHistory.appendChild(newHistoryItem);
 }
