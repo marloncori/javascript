@@ -15,10 +15,11 @@ let shoppingCart = {
         return;
       }
       this.items.splice(i, 1);
+       this.total--;
    },
   
    showProducts: function(){
-      console.log(" There are " + this,total + " products in the car up to now.");
+      console.log(" There are " + this.total + " products in the car up to now.");
       if(this.items.length != null){
          for(let i=0; i<this.items.length; i++){
            let elem = this.items[i];
