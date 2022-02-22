@@ -31,3 +31,5 @@ const moveOrStop = new Promise((resolve, reject) => {
 
 moveOrStop.then(onFullfillment)
 moveOrStop.catch(onFailure)
+
+//lub moveOrStop.then(onFullfillment, onFailure)
