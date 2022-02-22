@@ -20,4 +20,5 @@ const promise = fetchCurrentUser("api/user")
       .then(result => fetchFollowerInterests("api/interests/${result.followerId}"))
         .then(result => fetchInterestTags("api/tags/${result.interstId}"))
           .then(result => fetchTagDescription("api/description/${result.tagId}"))
+          .then(result => console.log("Displaying the fetched data... ", result))
 
