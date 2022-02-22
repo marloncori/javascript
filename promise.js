@@ -33,3 +33,4 @@ moveOrStop.then(onFullfillment)
 moveOrStop.catch(onFailure)
 
 //lub moveOrStop.then(onFullfillment, onFailure)
+// lub nawet moveOrStop.then(onFullfillment).catch(onFailure) ["Promise chaining"]
