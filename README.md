@@ -1,2 +1,2 @@
 # javascript
-Sample JavaScript applications at basic level.
+My sample JavaScript, Nodejs, and Expressjs applications.
