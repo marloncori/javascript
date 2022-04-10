@@ -1,0 +1,72 @@
+
+	20220410	12:36:45
+	82860c2d-319f-495b-b862-9a557c30c538
+	
+	###########################################
+	   EMPLOYEE DATABASE LOG 
+	 --> All registered employess: 
+	 [object Object],[object Object],[object Object] 
+	   <<< end of log >>>
+	###########################################
+
+	20220410	13:54:32
+	0e5bd76d-9792-41ae-bb36-6a2c90a42a82
+	
+	###########################################
+	   EMPLOYEE DATABASE LOG 
+	 --> All registered employess: 
+	 [object Object],[object Object],[object Object] 
+	   <<< end of log >>>
+	###########################################
+
+	20220410	13:55:27
+	2a493b4e-93f8-4445-b3a1-e648b60ca64e
+	
+	:::::::::::::::::::::::::::::::::::::::::
+	   EMPLOYEE REGISTER LOG 
+	 --> Newly added empolyee:
+	  id: 4
+	  first_name: "Kodaka"
+	  last_name: "Ogawa"
+	  email: "ogawa-kodaka@yahoo.co.jp" 
+	   <<< end of log >>>
+	:::::::::::::::::::::::::::::::::::::::::
+
+	20220410	13:55:43
+	e234de8e-9189-4d98-847c-ccf5cb7b138c
+	
+	:::::::::::::::::::::::::::::::::::::::::
+	   EMPLOYEE REGISTER LOG 
+	 --> Newly added empolyee:
+	  id: 4
+	  first_name: "Aniko"
+	  last_name: "Szalay"
+	  email: "ania.szalay@gmail.com" 
+	   <<< end of log >>>
+	:::::::::::::::::::::::::::::::::::::::::
+
+	20220410	13:58:57
+	45d39758-dd1e-40b4-874f-e10359e0f8d8
+	
+	:::::::::::::::::::::::::::::::::::::::::
+	   EMPLOYEE REGISTER LOG 
+	 --> Newly added empolyee:
+	  id: 4
+	  first_name: "Kodaka"
+	  last_name: "Ogawa"
+	  email: "ogawa-kodaka@yahoo.co.jp" 
+	   <<< end of log >>>
+	:::::::::::::::::::::::::::::::::::::::::
+
+	20220410	13:59:07
+	5fdeb283-0de5-4302-9615-f9a2c6b2a9a1
+	
+	:::::::::::::::::::::::::::::::::::::::::
+	   EMPLOYEE REGISTER LOG 
+	 --> Newly added empolyee:
+	  id: 4
+	  first_name: "Aniko"
+	  last_name: "Szalay"
+	  email: "ania.szalay@gmail.com" 
+	   <<< end of log >>>
+	:::::::::::::::::::::::::::::::::::::::::

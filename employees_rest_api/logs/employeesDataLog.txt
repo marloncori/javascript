@@ -1,0 +1,10 @@
+
+	20220410	13:58:45
+	6621c91d-3e59-465b-ba0e-b8b2b315828d
+	
+	###########################################
+	   EMPLOYEE DATABASE LOG 
+	 --> All registered employess: 
+	 [{"id":1,"firstname":"Dave","lastname":"Gray","email":"dave_gray@hotmail.com"},{"id":2,"firstname":"John","lastname":"Smith","email":"johnSmith@gmail.com"},{"id":3,"firstname":"Marlon","lastname":"Ribeiro","email":"marlon@elemelingua.com"}] 
+	   <<< end of log >>>
+	###########################################

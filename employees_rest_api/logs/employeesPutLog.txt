@@ -1,0 +1,26 @@
+
+	20220410	13:55:14
+	f50c2226-70e2-45b5-a9ae-31af17e3ef6f
+	
+	...........................................
+	   EMPLOYEE UPDATE LOG 
+	 --> Last editted empolyee:
+	  id: 3
+	  first_name: "Marlon"
+	  last_name: "Couto Ribeiro"
+	  email: "millenium_robotics@hotmail.com" 
+	   <<< end of log >>>
+	...........................................
+
+	20220410	13:59:12
+	975750c4-0527-4b6f-9cfe-88a3bf631e42
+	
+	...........................................
+	   EMPLOYEE UPDATE LOG 
+	 --> Last editted empolyee:
+	  id: 3
+	  first_name: "Marlon"
+	  last_name: "Couto Ribeiro"
+	  email: "millenium_robotics@hotmail.com" 
+	   <<< end of log >>>
+	...........................................
