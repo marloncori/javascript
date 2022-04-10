@@ -1,0 +1,28 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Learning to conde using Nodejs runtime evironment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marloncori/javascript.git"
+  },
+  "author": "Marlon Couto Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marloncori/javascript/issues"
+  },
+  "homepage": "https://github.com/marloncori/javascript#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

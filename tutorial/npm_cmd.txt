@@ -1,0 +1,19 @@
+$> npm init
+    # it is used to create the configuration for
+    # the package.json
+
+$> npm start
+    # it is used to run the start script added
+    # to the package.json file ('node <filename>')
+
+$> npm run dev
+    # this is how I can run the 'nodemon <filename>'
+    # command using npm
+
+$> npm i (npm install) <package name> -g
+    # with the -g flag I can install this package
+    # globally, not only in this project
+
+$> npm i <pkg name> -D
+    # install a package for development, not
+    # for production and save it this project
