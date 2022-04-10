@@ -1,0 +1,852 @@
+
+	20220410	03:49:15
+	33c746e4-c325-44ac-a932-2f670b294112
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /
+	--------------------------------------
+
+	20220410	03:49:15
+	919a6edf-efb7-4307-90ec-20716ae3ca6d
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:49:21
+	50f58f82-717c-47fe-a629-1d587249f206
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /new-page
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /new-page
+	--------------------------------------
+
+	20220410	03:49:21
+	0f451977-de9c-418c-9391-e4131fb67856
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:49:21
+	26103cf6-a27c-4990-b3de-d477aefcd346
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/img1.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/img1.jpg
+	--------------------------------------
+
+	20220410	03:49:21
+	a4169e9a-3d62-4df7-a59b-6c170e131e08
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:49:28
+	99b07214-ab4a-4ce9-b5d9-b628a2ed9785
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /old-page
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /old-page
+	--------------------------------------
+
+	20220410	03:49:28
+	71f02576-9048-43dc-b0a3-d99f2d630341
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /new-page.html
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /new-page.html
+	--------------------------------------
+
+	20220410	03:49:28
+	3d057e34-f8f8-47b9-ab2d-a577f4188054
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:49:28
+	099e6211-4f3f-49c4-ac5e-f57edaed08de
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/img1.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/img1.jpg
+	--------------------------------------
+
+	20220410	03:49:32
+	4ce857e1-ed6e-41c6-96ab-9812215c5e19
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /chain
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /chain
+	--------------------------------------
+
+	20220410	03:49:36
+	fbfc8587-0901-4f3e-a178-fa93e028f48c
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /table
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /table
+	--------------------------------------
+
+	20220410	03:49:36
+	46787350-f066-430d-9e83-42dcd6ab2b6e
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/rust.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/rust.jpg
+	--------------------------------------
+
+	20220410	03:49:36
+	8763fa0e-0524-4855-b742-4c866678056c
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/nodejs.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/nodejs.jpg
+	--------------------------------------
+
+	20220410	03:49:37
+	c79e1284-050e-4eab-9637-a4c5f902394f
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /tables
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /tables
+	--------------------------------------
+
+	20220410	03:49:37
+	e74dd0d2-1467-4184-afe0-a8db14aa3a3d
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:54:43
+	32bcf48e-0da3-47f6-9e51-2ee35eee3153
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /
+	--------------------------------------
+
+	20220410	03:54:44
+	5e710c13-a8ce-40b1-9d5f-3bc607b01fae
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:54:44
+	5819b128-9cad-4a7e-8f5d-34b750586f00
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /favicon.ico
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /favicon.ico
+	--------------------------------------
+
+	20220410	03:54:54
+	cf0a7517-77de-4904-8317-1364d12f9009
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:55:17
+	0a813990-b93d-427f-b32d-3ba153d11d3d
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /txt/test.txt
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /txt/test.txt
+	--------------------------------------
+
+	20220410	03:55:17
+	be06b840-8a68-4532-95aa-ffbec089d4ed
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /txt/css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /txt/css/style.css
+	--------------------------------------
+
+	20220410	03:55:27
+	9735cfcc-ac95-4c29-8825-24d11cc7afc9
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /index
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /index
+	--------------------------------------
+
+	20220410	03:55:27
+	a199756a-57da-43e1-9d2d-350b199a2d5b
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:55:35
+	7387674d-f036-4c34-b2ed-ea66e236d630
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /404
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /404
+	--------------------------------------
+
+	20220410	03:55:35
+	209abf36-9aae-4ec5-8b6a-a67cfa976f75
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:55:40
+	64c2640a-aa0c-4c37-ac74-0b2dc88ba183
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /new-page
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /new-page
+	--------------------------------------
+
+	20220410	03:55:40
+	101c180e-5359-47b8-8cd6-e05775b6a184
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	03:55:40
+	db2e73c4-71bb-4905-a264-2498b03dae55
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/img1.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/img1.jpg
+	--------------------------------------
+
+	20220410	03:55:46
+	3208507b-4a8b-4741-a463-1c2a61d6562d
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /table
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /table
+	--------------------------------------
+
+	20220410	03:55:47
+	a2f1336e-05a7-44ba-88ea-e07de3bc0d39
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/rust.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/rust.jpg
+	--------------------------------------
+
+	20220410	03:55:47
+	3afffeee-7efb-423d-81c8-accdcc308878
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/nodejs.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/nodejs.jpg
+	--------------------------------------
+
+	20220410	04:00:03
+	bfae01b0-5db0-4fdc-b69c-2c547bc3f8d0
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /
+	--------------------------------------
+	 3 - Headers origin: https://www.google.com
+	 4 - Request URL: /
+	--------------------------------------
+
+	20220410	04:00:25
+	714c22e9-0ee2-410c-bd9b-ce8a3ae7478c
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /table.html
+	--------------------------------------
+	 3 - Headers origin: https://www.google.com
+	 4 - Request URL: /table.html
+	--------------------------------------
+
+	20220410	04:00:40
+	51c2592d-fc44-4f55-bf40-5ffa6f212021
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /new-page
+	--------------------------------------
+	 3 - Headers origin: https://www.google.com
+	 4 - Request URL: /new-page
+	--------------------------------------
+
+	20220410	04:00:58
+	ab688702-5585-469c-aff3-cdfb552f6a91
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /404
+	--------------------------------------
+	 3 - Headers origin: https://www.google.com
+	 4 - Request URL: /404
+	--------------------------------------
+
+	20220410	04:10:53
+	a7bccba4-8ec7-495d-8564-7f7293a18b37
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /
+	--------------------------------------
+
+	20220410	04:10:53
+	81895ab5-5689-435c-b935-d5bd309e91fb
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:17:58
+	fb782c6c-1bc1-4c07-9e11-89950e766d1f
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /
+	--------------------------------------
+
+	20220410	04:17:58
+	29d261f0-35e4-4bbb-94ee-c15e36245700
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:18:06
+	f42af9de-6443-464f-84cb-cf326850ebb8
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /table
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /table
+	--------------------------------------
+
+	20220410	04:18:06
+	d6b9516c-cdc8-40eb-82c3-e9984cc5af1e
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/rust.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/rust.jpg
+	--------------------------------------
+
+	20220410	04:18:07
+	6f5245e0-d69a-4e4e-97cb-384a4f8be953
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/nodejs.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/nodejs.jpg
+	--------------------------------------
+
+	20220410	04:18:13
+	061948f6-ec57-4e9d-a8a5-2e184097c16d
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /new-page
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /new-page
+	--------------------------------------
+
+	20220410	04:18:13
+	729dc8f6-a09f-4ca6-b18f-d5fb790d3a40
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:18:13
+	be6f38d7-6933-4489-9116-8f6542a4c2ae
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/img1.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/img1.jpg
+	--------------------------------------
+
+	20220410	04:26:43
+	e13eca65-9759-4019-a176-1255e5147cf6
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /table
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /table
+	--------------------------------------
+
+	20220410	04:26:43
+	f7cdf304-3b1b-420e-b098-dc359acb82c3
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/rust.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/rust.jpg
+	--------------------------------------
+
+	20220410	04:26:43
+	19f68b39-6a74-4656-9440-7b45eaaf4bd5
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/nodejs.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/nodejs.jpg
+	--------------------------------------
+
+	20220410	04:26:47
+	3304589b-cbff-4093-afd3-0b0e192aea5c
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /tables
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /tables
+	--------------------------------------
+
+	20220410	04:26:47
+	de2d0175-d91a-4134-b3b6-e63fa88df9f2
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:26:51
+	b262a00e-07db-4851-b7d8-8309bcd40537
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /t
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /t
+	--------------------------------------
+
+	20220410	04:26:51
+	d501c49d-152d-464c-b467-101498f5b1f0
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:26:55
+	fb74ebdc-2df5-40d2-af00-0f38b3fd45e4
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: //
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: //
+	--------------------------------------
+
+	20220410	04:26:55
+	0db43eaa-a969-416e-861a-eb9c40254b25
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: //css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: //css/style.css
+	--------------------------------------
+
+	20220410	04:26:59
+	e5c5cd66-6632-4380-91f5-b0682bd1beb3
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /404
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /404
+	--------------------------------------
+
+	20220410	04:26:59
+	42239a3d-733f-4f6d-be42-e79bf3cb797a
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:27:04
+	05d7b01f-9492-4539-a319-321de3e33deb
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /500
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /500
+	--------------------------------------
+
+	20220410	04:27:04
+	4c216033-7d1b-408a-a49b-0b07d0ae84e9
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:28:59
+	7ec2bc1e-aafd-40bc-b2de-7afc582132df
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /
+	--------------------------------------
+
+	20220410	04:28:59
+	dffe0757-2153-4b45-b003-14bd0d0fb18e
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:29:08
+	d526fbe7-49da-4532-8d6a-2ae82bdffb9c
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /tabl
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /tabl
+	--------------------------------------
+
+	20220410	04:29:08
+	8eee1f2b-99b1-4c2a-b4e3-d8a51f2a6ddd
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
+
+	20220410	04:29:11
+	4a1a2379-3b47-400b-b971-8a3619e141b8
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /table
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /table
+	--------------------------------------
+
+	20220410	04:29:12
+	4e8b09d8-debb-4f15-b888-08292809f1d6
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/rust.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/rust.jpg
+	--------------------------------------
+
+	20220410	04:29:12
+	922aced7-a1ca-4f69-90df-a07027f4089f
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/nodejs.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/nodejs.jpg
+	--------------------------------------
+
+	20220410	04:32:03
+	1fa9b4d8-0a9d-4bd2-9ace-d965e27a7efd
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /table
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /table
+	--------------------------------------
+
+	20220410	04:32:03
+	eda8e543-b0c6-48ff-aebe-00bcfc06eb96
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/rust.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/rust.jpg
+	--------------------------------------
+
+	20220410	04:32:03
+	a59baa9b-ef2b-443e-8e2c-4b581fce03b8
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /img/nodejs.jpg
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /img/nodejs.jpg
+	--------------------------------------
+
+	20220410	04:32:08
+	92a8e026-1804-4b01-8376-031e5b41e096
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /tabl
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /tabl
+	--------------------------------------
+
+	20220410	04:32:08
+	4c6803e6-c220-4dbf-8aa2-c4a2426c134d
+	
+	--------------------------------------
+		   REQUEST LOG 
+	 1- Request method: GET
+	 2 -Request path: /css/style.css
+	--------------------------------------
+	 3 - Headers origin: undefined
+	 4 - Request URL: /css/style.css
+	--------------------------------------
