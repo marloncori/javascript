@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+    </style>
+    <link rel="stylesheet" href="/static/css/index.css">
+    <title> Single Page App </title>
+</head>
+<body>
+    <nav class="nav">
+        <!-- data-link: use history API with push_states method -->
+        <!--  this is done to navigate to a particular resource -->
+        <a href="/" class="nav_link" data-link>Dashboard</a>
+        <a href="/posts" class="nav_link" data-link>Posts</a>
+        <a href="/settings" class="nav_link" data-link>Settings</a>
+    </nav>
+    <div id="app"></div>
+    <!-- EMCA6 import syntax-->
+    <script type="module" src="/static/js/index.js"> </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+const fsPromises = require('fs').promises
+const { publicDecrypt } = require('crypto')
+const path = require('path')
+const put = require('./print')
+
+let my_text = '\n\t I am excited about learning some programming\n\t languages at the same time. \n\t Of course it is quite challening \n\t because it also needed to get \n\t acquainted with different modules, \n\t libraries, packages and programs. They \n\t are needed to give more functionality \n\t to those proglangs and to boot up productivity \n\t as well. That is why it is a lot of learning!\n\n'
+let ammendment = '\n\t It is quite exciting to see the outcome\n\t of your hard work. And when it \n\t does not work properly, it \n\t is quite sad. But this is part of game!\n\t No pain no gain - \n\t just keep up the good job!\n'
+let file_name = 'test2.txt'
+let new_name = 'new_test2.txt'
+
+const fileOps = async () => {
+    try {
+        const data = await fsPromises.readFile(
+            path.join(__dirname, '.', 'new_file.txt'), 'utf-8'
+        )
+        console.log('  Existing file content: \n')
+        put(data)
+        await fsPromises.unlink(path.join(__dirname, '.', 'new_file.txt'))
+        console.log('   Old file has been deleted.')
+        await fsPromises.writeFile(
+            path.join(__dirname, '.', file_name), data+my_text, 'utf-8'
+        )
+        put('  File created.')
+        await fsPromises.rename(
+            path.join(__dirname, '.', file_name), 
+            path.join(__dirname, '.', new_name)
+        )
+        put('  File renamed.')
+        await fsPromises.appendFile(
+            path.join(__dirname, '.', new_name), ammendment, 'utf-8'
+        )
+        put('  File updated.')
+        const newData = await fsPromises.readFile(
+            path.join(__dirname, '.', new_name), 'utf-8'
+        )
+        console.log('  New file content: \n')
+        put(newData)
+    } catch (err) {
+        console.error(err)
+    }
+}
+
+fileOps().then(() => {
+    put('  All the file operations have been completed!')
+})

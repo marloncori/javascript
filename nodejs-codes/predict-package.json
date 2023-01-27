@@ -1,0 +1,9 @@
+{
+    "name": "predict-image",
+    "author": " Marlon Couto Ribeiro <millenium_robotics@hotmail.com>",
+    "description": " Image prediciont of your browser using not MobileNet, but the bigger VGG16 Net",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "latest"
+    }
+}

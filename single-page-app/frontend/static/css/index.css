@@ -1,0 +1,58 @@
+
+body {
+    margin: 0 0 0 200px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 18px;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100vh;
+    background: #2301ba;
+    cursor: url("./assets/rust-logo.svg") 16 16, pointer;
+}
+
+.nav_link {
+    display: block;
+    padding: 12px 18px;
+    text-decoration: none;
+    color: #EEEEEE;
+    font-weight: 500;
+    cursor: url("./assets/r2-d2.svg") 16 16, pointer;
+}
+
+.nav_link:hover {
+    background: rgba(red, green, blue, 0.05);
+}
+
+#app {
+    margin: 2em;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+a {
+    color: #009579;
+}
+
+#welcome {
+    margin-bottom:30px;
+    height:60px;
+    color:blue; 
+    background-color:yellow;
+    margin: 0 auto;
+    border-radius:10px;
+    cursor: url("./assets/r2-d2.svg") 16 16, pointer;
+    text-align: center;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
+
+#paragraph, #list, #code-block {
+    padding: 20px;
+    box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255), 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+    border-radius:10px;
+    cursor: url("./assets/node-logo.svg") 16 16, pointer;
+}

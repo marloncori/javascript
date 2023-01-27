@@ -1,0 +1,13 @@
+const windows = require('os')
+const print = require("./print")
+
+print(windows.EOL)
+print(windows.arch)
+print(windows.cpus)
+print(windows.endianness)
+print(windows.freemem)
+print(windows.getPriority)
+print(windows.homedir)
+print(windows.hostname)
+print(windows.loadavg)
+print(windows.networkInterfaces)

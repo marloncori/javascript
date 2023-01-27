@@ -1,0 +1,27 @@
+const quickSort = (numbers) => {
+  return numbers
+         .filter(x => x > 0)
+         .reduce((a, x) => x < a ? x : a)
+}
+const qs = (arr) => [...arr].sort((a, b) => a - b)
+
+const qs2 = ([x, ...xs]) => x === undefined 
+  ? [] 
+  : [
+    ...qs(xs.filter(s => s <= x)),
+    x,
+    ...qs(xs.filter(b => b > x))
+  ]
+
+const main = () => {
+    let nums = [90, 78, 56, 41, 34, 12, 5, 9, 112]
+    console.log(`\n This was the original list:\n\t nums = ${nums}`)
+    let sorted = qs2(nums)
+    console.log(`\n This is the sorted list:\n\t sorted = ${sorted}`)
+}
+
+try {
+    main()
+} catch(error) {
+    console.log(error)
+}
